@@ -17,10 +17,10 @@ Technologies used:
 Running files:
 -------
 
-- Run from same directory as file: `$ python ex04.py`
+- Run from same directory as file: `$ python ex01.py`
 
 
 Links:
 -------
 
-[Learn PythonThe Hard Way (3rd Edition) by Zed A Shaw](http://learnpythonthehardway.org/book/)
+[Learn Python The Hard Way (3rd Edition) by Zed A Shaw](http://learnpythonthehardway.org/book/)
